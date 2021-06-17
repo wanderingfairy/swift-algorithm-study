@@ -2,44 +2,44 @@
 
 - Elementary data structures
 
-  - Stack [Stack]: (ElementaryDataStructures/Stack/)
+  - Stack
 
-  - LinkedList [LinkedList]: (ElementaryDataStructures/LinkedList/)
+  - LinkedList
 
-  - Queue [Queue]: (ElementaryDataStructures/Queue/)
+  - Queue
 
 - Trees
 
-  - Tree [Tree]: (Trees/GeneralPurposeTree/)
+  - Tree
 
-  - BinaryTree [BinaryTree]: (Trees/BinaryTree/)
+  - BinaryTree
 
-  - BinarySearch [BinarySearch]: (Trees/BinarySearch/)
+  - BinarySearch
 
-  - BinarySearchTree [BinarySearchTree]: (Trees/BinarySearchTree/)
+  - BinarySearchTree
 
-  - AVLTree [AVLTree]: (Trees/AVLTree/)
+  - AVLTree
 
-  - Trie [Trie]: (Trees/Trie/)
+  - Trie
 
-  - Heap [Heap]: (Trees/Heap/)
+  - Heap
 
-  - PriorityQueue [PriorityQueue]: (Trees/PriorityQueue/)
+  - PriorityQueue
 
 - SortingAlgorithms
 
-  - O(n^2) Sorting Algorithms [O(n^2)-Sorting-Algorithms]: (SortingAlgorithms/O(n^2)Sorting/)	"O(n^2) Sorting Algorithms"
+  - O(n^2) Sorting Algorithms
     - Bubble sort
     - Selection sort
     - insertion sort
     
-  - Merge Sort [Merge Sort]: (SortingAlgorithms/MergeSort/)
+  - Merge Sort
   
-  - Radix Sort [Radix Sort]: (SortingAlgorithms/RadixSort/)
+  - Radix Sort
   
-  - Heap Sort [Heap Sort]: (SortingAlgorithms/HeapSort/)
+  - Heap Sort
   
-  - Quick Sort [Quick Sort]: (SortingAlgorithms/QuickSort/)
+  - Quick Sort
 
 
 ---
