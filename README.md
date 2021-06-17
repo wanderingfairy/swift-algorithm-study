@@ -2,44 +2,44 @@
 
 - Elementary data structures
 
-  - [Stack]: ../ElementaryDataStructures/Stack/
+  - [Stack]: ../ElementaryDataStructures/Stack/	"Stack"
 
-  - [LinkedList]: ../ElementaryDataStructures/LinkedList/
+  - [LinkedList]: ../ElementaryDataStructures/LinkedList/	"LinkedList"
 
-  - [Queue]: ../ElementaryDataStructures/Queue
+  - [Queue]: ../ElementaryDataStructures/Queue	"Queue"
 
 - Trees
 
-  - [Tree]: ../Trees/GeneralPurposeTree
+  - [Tree]: ../Trees/GeneralPurposeTree	"Tree"
 
-  - [BinaryTree]: ../Trees/BinaryTree
+  - [BinaryTree]: ../Trees/BinaryTree	"BinaryTree"
 
-  - [BinarySearch]: ../Trees/BinarySearch
+  - [BinarySearch]: ../Trees/BinarySearch	"BinarySearch"
 
-  - [BinarySearchTree]: ../Trees/BinarySearchTree
+  - [BinarySearchTree]: ../Trees/BinarySearchTree	"BinarySearchTree"
 
-  - [AVLTree]: ../Trees/AVLTree
+  - [AVLTree]: ../Trees/AVLTree	"AVLTree"
 
-  - [Trie]: ../Trees/Trie
+  - [Trie]: ../Trees/Trie	"Trie"
 
-  - [Heap]: ../Trees/Heap
+  - [Heap]: ../Trees/Heap	"Heap"
 
-  - [PriorityQueue]: ../Trees/PriorityQueue
+  - [PriorityQueue]: ../Trees/PriorityQueue	"PriorityQueue"
 
 - SortingAlgorithms
 
-  - [O(n^2)-Sorting-Algorithms]: ../SortingAlgorithms/O(n^2)Sorting/
+  - [O(n^2)-Sorting-Algorithms]: ../SortingAlgorithms/O(n^2)Sorting/	"O(n^2) Sorting Algorithms"
     - Bubble sort
     - Selection sort
     - insertion sort
     
-  - [Merge Sort]: ../SortingAlgorithms/MergeSort
+  - [Merge Sort]: ../SortingAlgorithms/MergeSort	"Merge Sort"
   
-  - [Radix Sort]: ../SortingAlgorithms/RadixSort
+  - [Radix Sort]: ../SortingAlgorithms/RadixSort	"Radix Sort"
   
-  - [Heap Sort]: ../SortingAlgorithms/HeapSort
+  - [Heap Sort]: ../SortingAlgorithms/HeapSort	"Heap Sort"
   
-  - [Quick Sort]: ../SortingAlgorithms/QuickSort
+  - [Quick Sort]: ../SortingAlgorithms/QuickSort	"Quick Sort"
 
 
 ---
