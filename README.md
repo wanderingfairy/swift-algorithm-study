@@ -2,44 +2,44 @@
 
 - Elementary data structures
 
-  - [Stack]: ../ElementaryDataStructures/Stack/	"Stack"
+  - [Stack]: (../ElementaryDataStructures/Stack/)	"Stack"
 
-  - [LinkedList]: ../ElementaryDataStructures/LinkedList/	"LinkedList"
+  - [LinkedList]: (../ElementaryDataStructures/LinkedList/)	"LinkedList"
 
-  - [Queue]: ../ElementaryDataStructures/Queue	"Queue"
+  - [Queue]: (../ElementaryDataStructures/Queue/)	"Queue"
 
 - Trees
 
-  - [Tree]: ../Trees/GeneralPurposeTree	"Tree"
+  - [Tree]: (../Trees/GeneralPurposeTree/)	"Tree"
 
-  - [BinaryTree]: ../Trees/BinaryTree	"BinaryTree"
+  - [BinaryTree]: (../Trees/BinaryTree/)	"BinaryTree"
 
-  - [BinarySearch]: ../Trees/BinarySearch	"BinarySearch"
+  - [BinarySearch]: (../Trees/BinarySearch/)	"BinarySearch"
 
-  - [BinarySearchTree]: ../Trees/BinarySearchTree	"BinarySearchTree"
+  - [BinarySearchTree]: (../Trees/BinarySearchTree/)	"BinarySearchTree"
 
-  - [AVLTree]: ../Trees/AVLTree	"AVLTree"
+  - [AVLTree]: (../Trees/AVLTree/)	"AVLTree"
 
-  - [Trie]: ../Trees/Trie	"Trie"
+  - [Trie]: (../Trees/Trie/)	"Trie"
 
-  - [Heap]: ../Trees/Heap	"Heap"
+  - [Heap]: (../Trees/Heap/)	"Heap"
 
-  - [PriorityQueue]: ../Trees/PriorityQueue	"PriorityQueue"
+  - [PriorityQueue]: (../Trees/PriorityQueue/)	"PriorityQueue"
 
 - SortingAlgorithms
 
-  - [O(n^2)-Sorting-Algorithms]: ../SortingAlgorithms/O(n^2)Sorting/	"O(n^2) Sorting Algorithms"
+  - [O(n^2)-Sorting-Algorithms]: (../SortingAlgorithms/O(n^2)Sorting/)	"O(n^2) Sorting Algorithms"
     - Bubble sort
     - Selection sort
     - insertion sort
     
-  - [Merge Sort]: ../SortingAlgorithms/MergeSort	"Merge Sort"
+  - [Merge Sort]: (../SortingAlgorithms/MergeSort/)	"Merge Sort"
   
-  - [Radix Sort]: ../SortingAlgorithms/RadixSort	"Radix Sort"
+  - [Radix Sort]: (../SortingAlgorithms/RadixSort/)	"Radix Sort"
   
-  - [Heap Sort]: ../SortingAlgorithms/HeapSort	"Heap Sort"
+  - [Heap Sort]: (../SortingAlgorithms/HeapSort/)	"Heap Sort"
   
-  - [Quick Sort]: ../SortingAlgorithms/QuickSort	"Quick Sort"
+  - [Quick Sort]: (../SortingAlgorithms/QuickSort/)	"Quick Sort"
 
 
 ---
