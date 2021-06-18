@@ -1,7 +1,5 @@
 # **swift-algorithm-study**
 
----
-
 ## **Algorithms and Data Structures**
 
 - ### Elementary data structures
