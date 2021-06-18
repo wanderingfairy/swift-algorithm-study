@@ -1,13 +1,18 @@
-# swift-algorithm-study
+# **swift-algorithm-study**
 
-- Elementary data structures
+---
+
+## **Algorithms and Data Structures**
+
+- ### Elementary data structures
 
   - Stack
 
   - LinkedList
 
   - Queue
-- Trees
+
+- ### Trees
 
   - Tree
 
@@ -24,7 +29,8 @@
   - Heap
 
   - PriorityQueue
-- SortingAlgorithms
+
+- ### SortingAlgorithms
 
   - O(n^2) Sorting Algorithms
     - Bubble sort
@@ -34,14 +40,21 @@
   - Radix Sort
   - Heap Sort
   - Quick Sort
-- Graph
+  
+- ### Graph
+
   - Adjacency List
 
 
 ---
 
-- 2021.06.18
+## **TIL**
+
+- ### 2021.06.18
+  
   - Quick Sort의 개념과 여러 피봇 선택 전략 정리.
-- 2021.06.19
+  
+- ### 2021.06.19
+
   - Graph의 개념과 Adjacency list를 이용한 그래프 구현을 정리.
 
