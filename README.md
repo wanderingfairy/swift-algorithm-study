@@ -3,33 +3,19 @@
 ## **Algorithms and Data Structures**
 
 - ### Elementary data structures
-
   - Stack
-
   - LinkedList
-
   - Queue
-
 - ### Trees
-
   - Tree
-
   - BinaryTree
-
   - BinarySearch
-
   - BinarySearchTree
-
   - AVLTree
-
   - Trie
-
   - Heap
-
   - PriorityQueue
-
 - ### SortingAlgorithms
-
   - O(n^2) Sorting Algorithms
     - Bubble sort
     - Selection sort
@@ -38,17 +24,13 @@
   - Radix Sort
   - Heap Sort
   - Quick Sort
-  
 - ### Graph
-
   - Adjacency List
   - Adjacency Metrix
   - Graph Searching Algorithms
     - Breadth-First-Search(BFS)
 
-
 ---
-
 ## **TIL**
 
 - ### 2021.06.18
