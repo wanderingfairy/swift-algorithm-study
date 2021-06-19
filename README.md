@@ -42,6 +42,9 @@
 - ### Graph
 
   - Adjacency List
+  - Adjacency Metrix
+  - Graph Searching Algorithms
+    - Breadth-First-Search(BFS)
 
 
 ---
@@ -55,4 +58,8 @@
 - ### 2021.06.19
 
   - Graph의 개념과 Adjacency list를 이용한 그래프 구현을 정리.
+
+- ### 2021.06.19
+
+  - Adjacency Metrix를 이용한 Graph 구현과 BFS 알고리즘 구현을 정리.
 
