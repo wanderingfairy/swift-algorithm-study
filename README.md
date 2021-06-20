@@ -16,7 +16,7 @@
   - Heap
   - PriorityQueue
 - ### SortingAlgorithms
-  - $$O(n^2)$$ Sorting Algorithms
+  - O(n^2) Sorting Algorithms
     - Bubble sort
     - Selection sort
     - insertion sort
