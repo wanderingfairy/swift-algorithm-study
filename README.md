@@ -34,14 +34,13 @@
 ## **TIL**
 
 - ### 2021.06.18
-  
   - Quick Sort의 개념과 여러 피봇 선택 전략 정리.
   
 - ### 2021.06.19
-
   - Graph의 개념과 Adjacency list를 이용한 그래프 구현을 정리.
 
 - ### 2021.06.20
-
   - Adjacency Metrix를 이용한 Graph 구현과 BFS 알고리즘 구현을 정리.
-
+  
+- ### 2021.06.21
+  - Graph를 순회(traverse)하거나 탐색(search)하는 알고리즘인 Depth-Frist-Search(DFS)의 개념을 익히고 구현.
