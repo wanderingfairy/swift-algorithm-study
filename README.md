@@ -29,6 +29,8 @@
   - Adjacency Metrix
   - Graph Searching Algorithms
     - Breadth-First-Search(BFS)
+    - Depth-First-Search(DFS)
+    - Dijkstra's Algorithm
 
 ---
 ## **TIL**
@@ -44,3 +46,6 @@
   
 - ### 2021.06.21
   - Graph를 순회(traverse)하거나 탐색(search)하는 알고리즘인 Depth-Frist-Search(DFS)의 개념을 익히고 구현.
+
+- ### 2021.06.22
+  - Dijkstra's Algorithm 개념 정리 및 구현.
