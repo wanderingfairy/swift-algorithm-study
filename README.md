@@ -31,6 +31,7 @@
     - Breadth-First-Search(BFS)
     - Depth-First-Search(DFS)
     - Dijkstra's Algorithm
+  - Prim's Algorithm
 
 ---
 ## **TIL**
@@ -49,3 +50,11 @@
 
 - ### 2021.06.22
   - Dijkstra's Algorithm 개념 정리 및 구현.
+
+- ### 2021.06.23
+  - Prim's Algorithm 개념 정리 및 구현.
+  
+    - Prim's Algorithm 구현을 위해 **AdjacencyList.swift**에 `copyVertices(from:)` 메서드를 추가하여, 파일명을 **AdjacencyList+copyVertices.swift**로 변경
+  
+    
+

@@ -33,6 +33,15 @@ public class AdjacencyList<T: Hashable>: Graph {
   }
 }
 
+// MARK: - for Prim's Algorithm
+extension AdjacencyList {
+  public func copyVertices(from graph: AdjacencyList) {
+    for vertex in graph.vertices {
+      adjacencies[vertex] = []
+    }
+  }
+}
+
 extension AdjacencyList: CustomStringConvertible {
   
   public var description: String {
