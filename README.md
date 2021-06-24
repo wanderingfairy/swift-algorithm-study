@@ -59,11 +59,11 @@
 
   - LeetCode Easy 20.ValidParentheses 
 
-  [solution]: ./LeetCode/Easy/ValidParenthesesEasy20.swift	"solution"
+  [solution]: /LeetCode/Easy/ValidParenthesesEasy20.swift
 
   - ListCode Medium 92.ReverseLinkedList II 
 
-  [solution]: ./LeetCode/Medium/ReverseLinkedListIIMedium92.swift	"solution"
+  [solution]: /LeetCode/Medium/ReverseLinkedListIIMedium92.swift
 
     
 
