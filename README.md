@@ -62,3 +62,4 @@
 
 - ### 2021.06.25
   - LeetCode Easy 1.TwoSum [solution](./LeetCode/Easy/TwoSumEasy1.swift)
+  - LeetCode Easy 94.BinaryTreeInorderTraversal [solution](./LeetCode/Easy/BinaryTreeInorderTraversalEasy94.swift)
