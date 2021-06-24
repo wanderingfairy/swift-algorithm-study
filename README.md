@@ -60,5 +60,5 @@
   - LeetCode Medium 92.ReverseLinkedList II [solution](./LeetCode/Medium/ReverseLinkedListIIMedium92.swift)
   - LeetCode Easy   101.SymmetricTree [solution](./LeetCode/Easy/SymmetricTreeEasy101Shorter.swift)
 
-    
-
+- ### 2021.06.25
+  - LeetCode Easy 1.TwoSum [solution](./LeetCode/Easy/TwoSumEasy1.swift)
