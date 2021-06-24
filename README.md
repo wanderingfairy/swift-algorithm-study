@@ -56,11 +56,11 @@
     - Prim's Algorithm 구현을 위해 **AdjacencyList.swift**에 `copyVertices(from:)` 메서드를 추가하여, 파일명을 **AdjacencyList+copyVertices.swift**로 변경
   
 - ### 2021.06.24
-  - LeetCode Easy   [20.ValidParentheses](https://leetcode.com/problems/valid-parentheses/) [solution](./LeetCode/Easy/ValidParenthesesEasy20.swift)
-  - LeetCode Medium [92.ReverseLinkedList II](https://leetcode.com/problems/reverse-linked-list-ii/) [solution](./LeetCode/Medium/ReverseLinkedListIIMedium92.swift)
-  - LeetCode Easy   [101.SymmetricTree](https://leetcode.com/problems/symmetric-tree/) [solution](./LeetCode/Easy/SymmetricTreeEasy101Shorter.swift)
+  - LeetCode Easy   [20.ValidParentheses](https://leetcode.com/problems/valid-parentheses/) - [solution](./LeetCode/Easy/ValidParenthesesEasy20.swift)
+  - LeetCode Medium [92.ReverseLinkedList II](https://leetcode.com/problems/reverse-linked-list-ii/) - [solution](./LeetCode/Medium/ReverseLinkedListIIMedium92.swift)
+  - LeetCode Easy   [101.SymmetricTree](https://leetcode.com/problems/symmetric-tree/) - [solution](./LeetCode/Easy/SymmetricTreeEasy101Shorter.swift)
 
 - ### 2021.06.25
-  - LeetCode Easy [1.TwoSum](https://leetcode.com/problems/two-sum/) [solution](./LeetCode/Easy/TwoSumEasy1.swift)
-  - LeetCode Easy [94.BinaryTreeInorderTraversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) [solution](./LeetCode/Easy/BinaryTreeInorderTraversalEasy94.swift)
-  - LeetCode Easy[ 26.RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) [solution](./LeetCode/Easy/RemoveDuplicatesFromSortedArrayEasy26.swift)
+  - LeetCode Easy [1.TwoSum](https://leetcode.com/problems/two-sum/) - [solution](./LeetCode/Easy/TwoSumEasy1.swift)
+  - LeetCode Easy [94.BinaryTreeInorderTraversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [solution](./LeetCode/Easy/BinaryTreeInorderTraversalEasy94.swift)
+  - LeetCode Easy[ 26.RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [solution](./LeetCode/Easy/RemoveDuplicatesFromSortedArrayEasy26.swift)
