@@ -31,15 +31,13 @@ class Solution {
   }
 }
 
-let oneRR = TreeNode(3)
-let oneRL: TreeNode? = nil
-let oneR = TreeNode(2, oneRL, oneRR)
-
-let oneLL: TreeNode? = nil
-let oneLR = TreeNode(3)
-let oneL = TreeNode(2, oneLL, oneLR)
-
-let root = TreeNode(1, oneL, oneR)
+// let oneRR = TreeNode(3)
+// let oneRL: TreeNode? = nil
+// let oneR = TreeNode(2, oneRL, oneRR)
+// let oneLL: TreeNode? = nil
+// let oneLR = TreeNode(3)
+// let oneL = TreeNode(2, oneLL, oneLR)
+// let root = TreeNode(1, oneL, oneR)
 
 /*
                          one1
