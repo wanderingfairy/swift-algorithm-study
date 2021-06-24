@@ -61,5 +61,11 @@
 
     [solution]: ./LeetCode/Easy/ValidParenthesesEasy20.swift
 
-  - ListCode Medium 92.ReverseLinkedList II [solution]
+    
+
+  - ListCode Medium 92.ReverseLinkedList II 
+
+    [solution]: ./LeetCode/Medium/ReverseLinkedListIIMedium92.swift
+
+    
 
