@@ -58,6 +58,7 @@
 - ### 2021.06.24
   - LeetCode Easy 20.ValidParentheses [solution](./LeetCode/Easy/ValidParenthesesEasy20.swift)
   - LeetCode Medium 92.ReverseLinkedList II [solution](./LeetCode/Medium/ReverseLinkedListIIMedium92.swift)
+  - LeetCode Easy 101.SymmetricTree [solution](./LeetCode/Easy/SymmetricTreeEasy101Shorter.swift)
 
     
 
