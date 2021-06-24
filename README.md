@@ -53,8 +53,13 @@
 
 - ### 2021.06.23
   - Prim's Algorithm 개념 정리 및 구현.
-  
     - Prim's Algorithm 구현을 위해 **AdjacencyList.swift**에 `copyVertices(from:)` 메서드를 추가하여, 파일명을 **AdjacencyList+copyVertices.swift**로 변경
   
-    
+- ### 2021.06.24
+
+  - LeetCode Easy 20.ValidParentheses 
+
+    [solution]: ./LeetCode/Easy/ValidParenthesesEasy20.swift
+
+  - ListCode Medium 92.ReverseLinkedList II [solution]
 
