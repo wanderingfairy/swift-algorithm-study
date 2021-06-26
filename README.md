@@ -64,3 +64,6 @@
   - LeetCode Easy [1.TwoSum](https://leetcode.com/problems/two-sum/) - [solution](./LeetCode/Easy/TwoSumEasy1.swift)
   - LeetCode Easy [94.BinaryTreeInorderTraversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) - [solution](./LeetCode/Easy/BinaryTreeInorderTraversalEasy94.swift)
   - LeetCode Easy[ 26.RemoveDuplicatesFromSortedArray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [solution](./LeetCode/Easy/RemoveDuplicatesFromSortedArrayEasy26.swift)
+
+- ### 2021.06.26
+  - LeetCode Easy [506.Relative Ranks](https://leetcode.com/problems/relative-ranks/) - [solution](./LeetCode/Easy/RelativeRanksEasy506.swift)
