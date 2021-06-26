@@ -67,3 +67,4 @@
 
 - ### 2021.06.26
   - LeetCode Easy [506.Relative Ranks](https://leetcode.com/problems/relative-ranks/) - [solution](./LeetCode/Easy/RelativeRanksEasy506.swift)
+  - Programmers [Lv.2 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=swift) - [solution](./Programmers/Level2/기능개발Lv2.swift)
