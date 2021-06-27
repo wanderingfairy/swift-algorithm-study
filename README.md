@@ -70,4 +70,6 @@
   - Programmers [Lv.2 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586?language=swift) - [solution](./Programmers/Level2/기능개발Lv2.swift)
 
 - ### 2021.06.28
-  - Programmers [Lv.2 타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/42586?language=swift) - [solution](./Programmers/Level2/타겟넘버Lv2.swift)
+  - Programmers [Lv.2 타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/42586?language=swift) 
+    - [Common solution](./Programmers/Level2/타겟넘버Lv2.swift)
+    - [Solution using Memoization](./Programmers/Level2/타겟넘버Lv2Memoization.swift)
