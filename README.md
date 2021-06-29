@@ -78,3 +78,6 @@
 - ### 2021.06.28
   - Programmers [Lv.2 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - [Solution](./Programmers/Level2/다리를지나는트럭Lv2.swift)
   - Programmers [Lv.2 H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) - [Solution](./Programmers/Level2/H-IndexLv2.swift)
+  
+  - ### 2021.06.29
+    - Programmers [Lv.2 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [Solution](./Programmers/Level2/카펫Lv2.swift)
