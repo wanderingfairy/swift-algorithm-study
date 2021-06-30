@@ -75,9 +75,12 @@
     - [Solution using Memoization](./Programmers/Level2/타겟넘버Lv2Memoization.swift)
   - Programmers [Lv.3 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [Solution](./Programmers/Level3/네트워크Lv3.swift)
 
-- ### 2021.06.28
+- ### 2021.06.29
   - Programmers [Lv.2 다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) - [Solution](./Programmers/Level2/다리를지나는트럭Lv2.swift)
   - Programmers [Lv.2 H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) - [Solution](./Programmers/Level2/H-IndexLv2.swift)
   
-  - ### 2021.06.29
+  - ### 2021.06.30
     - Programmers [Lv.2 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) - [Solution](./Programmers/Level2/카펫Lv2.swift)
+
+  - ### 2021.07.01
+    - Programmers [카카오 인턴](https://programmers.co.kr/learn/courses/30/lessons/67256) - [Solution](./Programmers/카카오인턴/[카카오인턴]키패드누르기.swift)
