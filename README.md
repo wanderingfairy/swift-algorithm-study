@@ -90,5 +90,5 @@
     - Programmers [신규 아이디 추천 - 2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/courses/30/lessons/72410) - [Solution](./Programmers/Special/KakaoBlind/신규아이디추천.swift)
 
   - ### 2021.07.02
-  - Programmers [월간코드챌린지 - 음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) - [Solution](./Programmers/Special/월간코드챌린지/[월간코드챌린지]음양더하기.swift)
-  - Programmers [2017팁스타운 - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - [Solution](./Programmers/Special/2017팁스타운/[2017팁스타운]짝지어제거하기.swift)
+    - Programmers [월간코드챌린지 - 음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) - [Solution](./Programmers/Special/월간코드챌린지/[월간코드챌린지]음양더하기.swift)
+    - Programmers [2017팁스타운 - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - [Solution](./Programmers/Special/2017팁스타운/[2017팁스타운]짝지어제거하기.swift)
