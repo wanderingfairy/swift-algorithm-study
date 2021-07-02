@@ -96,8 +96,8 @@
 - ### 2021.07.03
   - LeetCode Easy [100.Same Tree](https://leetcode.com/problems/same-tree) - [solution](./LeetCode/Easy/SameTreeEasy100.swift)
   
-  - 프로그래머스 실력 체크 Level 1: 문제 비공개
-    - ![level1](https://i.loli.net/2021/07/03/7OxCHltycKEMvGn.png)
-  - 프로그래머스 실력 체크 Level 2: 문제 비공개
-    - ![level2](https://i.loli.net/2021/07/03/EBW1c6L9HzokmCg.png)
-
+  - 프로그래머스 실력 체크 1, 2 Level (문제 공개 불가능)
+  
+    | Level 1                                                      | Level 2                                                      |
+    | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    | ![level1](https://i.loli.net/2021/07/03/7OxCHltycKEMvGn.png) | ![level2](https://i.loli.net/2021/07/03/EBW1c6L9HzokmCg.png) |
