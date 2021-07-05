@@ -107,3 +107,6 @@
 
 - ### 2021.07.05
   - Programmers [Lv.2 위장](https://programmers.co.kr/learn/courses/30/lessons/42578)[Solution](./Programmers/Level2/위장.swift)
+
+- ### 2021.07.06
+  - Leetcode [Medium - 1476.SubrectangleQueries1476](https://leetcode.com/problems/subrectangle-queries/)[Solution](./LeetCode/Medium/SubrectangleQueries1476.swift)
