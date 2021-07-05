@@ -110,4 +110,4 @@
 
 - ### 2021.07.06
   - Leetcode [Medium - 1476.SubrectangleQueries1476](https://leetcode.com/problems/subrectangle-queries/) - [[Solution]](./LeetCode/Medium/SubrectangleQueries1476.swift)
-  - Leetcode [Medium - 2.AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/) - [[Solution]](AddTwoNumbersMedium2.swift)
+  - Leetcode [Medium - 2.AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/) - [[Solution]](./LeetCode/Medium/AddTwoNumbersMedium2.swift)
