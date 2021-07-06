@@ -113,6 +113,8 @@
     - 이왜미? 구현 문제인데 Easy가 적합한 듯 하다. 가장 빠른 풀이를 보니 getValue() 메서드를 최적화한 코드였다.
   - Leetcode [Medium - 2.AddTwoNumbers](https://leetcode.com/problems/add-two-numbers/) - [[Solution]](./LeetCode/Medium/AddTwoNumbersMedium2.swift)
     - 두 링크드 리스트의 노드 두 개의 값을 합친 값이 10 이상일 때 다음 계산 값에 1을 더해주는 게 포인트. 연산은 둘 중 하나의 노드가 nil일 경우 계속 진행하고, 둘 다 nil일 때만 종료해야한다.
+    
+- ### 2021.07.07
   - Leetcode [Medium - 547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) - [[Solution]](./LeetCode/Medium/NumberOfProvincesMedium547.swift)
     - BFS로 풀었는데, 이 문제의 경우 가능한 모든 결과들을 찾을 필요가 없고, 최대한 깊게 들어가면서 방문한 Vertices만 체크하면 되기 때문에 BFS보다는 DFS가 알맞는 거 같다. 제일 빠른 풀이를 보니 DFS여서 생각해보게 됐다.
 
